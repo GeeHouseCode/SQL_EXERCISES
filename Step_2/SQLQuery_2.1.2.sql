@@ -1,0 +1,13 @@
+SELECT [ProductKey]
+      ,[SalesOrderNumber]
+      ,[UnitPrice]
+      ,[ProductStandardCost]
+      ,[TotalProductCost]
+      ,[SalesAmount]
+      ,[TaxAmt]
+      ,[Freight]
+      ,[OrderDate]
+      ,[DueDate]
+      ,[ShipDate]
+  FROM [AdventureWorksDW2022].[dbo].[FactInternetSales]
+  WHERE [SalesAmount] = 1000.4375
