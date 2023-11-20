@@ -44,6 +44,11 @@ SELECT TOP (1000) *  FROM AdventureWorksDW2022.dbo.DimProduct
 This query gives us the same result as the previous one (result on the screenshot and in the STEP_1 file). I showed this at the very beginning to make you realize that when writing SQL queries, several paths can lead to the same solution.
 ![RQ1 1_1 2](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1/RQ1.1_1.2.png)
 
+### < Remember > 
+If there is more than one database on your SSMS server, it is worth using the USE database name command. This command specifies exactly which database you want to use.
+```
+USE AdventureWorksDW2022
+```
 
 
 
