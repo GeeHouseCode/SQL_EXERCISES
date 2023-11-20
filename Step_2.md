@@ -5,14 +5,17 @@ Here is the list of Comparison operators you can use to specify in a condition.
 
 |Operator| Description |
 | ------------- | ------------- |
-| =  | Equal to	  |
-| >  | Greater than  |
-| <  | 	Less than		 |
-| >=  | Greater than or equal to  |
+| 1 |  =  | Equal to	  |
+| 2 |  >  | Greater than  |
+| 3 |  <  | 	Less than		 |
+| 4 | >=  | Greater than or equal to  |
 | <=  | Less than or equal to	  |
 | <>  | Not equal to	  |
 
+Let's take a look at a couple of examples.
+
 **Example**
+2.0 First, the equality operator
 ```
 SELECT * FROM AdventureWorksDW2022.dbo.DimProduct WHERE ProductAlternateKey = 'CR-7833'
 ```
@@ -33,4 +36,4 @@ SELECT [ProductKey]
   WHERE [SalesAmount] = 1000.4375
 ```
 
-Let's take a look at a couple of examples.
+
