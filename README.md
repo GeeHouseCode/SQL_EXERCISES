@@ -11,7 +11,6 @@ SQL (pronounced either “es-cue-el” or “sequel”), which stands for Struct
 
 Despite there being many alternatives, SQL remains the world’s most widely used database language. SQL forms the basis for next-generation database managers such as Oracle, MySQL, PostgreSQL and Microsoft T-SQL. For these reasons, SQL skills continue to be in high demand across almost all industries. It can be a key technology for developers, data architects, and data analysts. Even if they use other programs like Excel for data analysis, SQL skills are useful to retrieve the data from databases.
 
-70-461, 761: Querying Microsoft SQL Server with
 [Click this for more](https://blog.udemy.com/what-is-sql/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282061_._kw__._de_c_._dm__._pl__._ti_dsa-437380672551_._li_1011419_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpP7NRZ_RKfmmFJmMKNU3ob28mh0c7fp9ofH0pGszMnvZ_ybvNjMy0aAuBpEALw_wcB)
 
 ## Contents of the Repository
