@@ -37,3 +37,8 @@ SELECT TOP (1000) [EmployeeKey]
 ```
 
 In this case, I used the SELECT query, which is available after right-clicking on the selected table in SSMS (SQL Server Management Studio). The first 1000 rows will be displayed.
+
+```
+SELECT TOP (1000) *  FROM AdventureWorksDW2022.dbo.DimProduct
+```
+
