@@ -8,5 +8,5 @@ You will find here examples of queries from the simplest to advanced ones, have 
 
 ## Contents of the Repository
 
-#### [Step 1 - get to know the tables you're working on](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md)https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md).
+#### [Step 1 - get to know the tables you're working on](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md).
 
