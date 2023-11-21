@@ -16,5 +16,5 @@ Despite there being many alternatives, SQL remains the world’s most widely use
 ## Contents of the Repository
 
 #### [Step 1 - get to know the tables you're working on](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md).
-#### [Step 2 - SQL comparison operators](https://github.com/GeeHouseCode/SQL_EXERCISES/commit/f6f80aaf94cb6bc174efebf554c5aee64936ce02)
+#### [Step 2 - SQL operators](https://github.com/GeeHouseCode/SQL_EXERCISES/commit/f6f80aaf94cb6bc174efebf554c5aee64936ce02)
 
