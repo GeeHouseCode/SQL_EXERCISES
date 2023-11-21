@@ -17,13 +17,15 @@ Despite there being many alternatives, SQL remains the world’s most widely use
 
 ## Basic SQL commands and aggregation functions
 To start your adventure with SQL, you need to know the basic query syntax. Below is a description of the basic commands and aggregation functions.
-
-- **SELECT** - retrieves data from a database
-- **FROM** - specifies which table to retrieve data from
-- **WHERE** - specifies rows to retrieve based on certain conditions
-- **GROUP BY** - groups rows that have the same values in the specified columns
-- **HAVING** - filters groups based on a specified condition
-- **ORDER BY** - sorts the retrieved rows in a specified order
+### Basic SQL commands
+- **SELECT** - retrieves data from a database,
+- **FROM** - specifies which table to retrieve data from,
+- **WHERE** - specifies rows to retrieve based on certain conditions,
+- **GROUP BY** - groups rows that have the same values in the specified columns,
+- **HAVING** - filters groups based on a specified condition,
+- **ORDER BY** - sorts the retrieved rows in a specified order,
+### Aggregation functions
+- **AVG()** - returns the average value of a set of values,
 
 ## Contents of the Repository
 
