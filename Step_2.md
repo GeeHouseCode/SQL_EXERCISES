@@ -27,7 +27,7 @@ SELECT * FROM AdventureWorksDW2022.dbo.DimProduct WHERE ProductAlternateKey = 'C
 
 **Query result**
 
-![image](https://github.com/GeeHouseCode/SQL_EXERCISES/assets/110656951/548bb215-8678-439b-8f80-b1e16ea672c5)
+![image](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_2/RQ_2.1.1.png)
 
 **SQL query**
 
