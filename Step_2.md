@@ -11,21 +11,21 @@ Here is the list of Comparison operators you can use to specify in a condition.
 | 3 |  <  | 	Less than		 
 | 4 | >=  | Greater than or equal to  |
 | 5 | <=  | Less than or equal to	  |
-| 6 | <>  | Not equal to	  |
+| 6 | <> or != | Not equal to	  |
 
 Let's take a look at a couple of examples.
 
-#### Examples comparison operators
+#### Examples  Equal to	"=" operator
 First, the equality operator **"="**, used very often in many different complex SQL queries. It is worth knowing that it is not only used to compare numerical values, it can also be used for strings.
 Below are two simple examples.
 
-**SQL query**
+>**SQL query**
 
 ```
 SELECT * FROM AdventureWorksDW2022.dbo.DimProduct WHERE ProductAlternateKey = 'CR-7833'
 ```
 
-**Query result**
+>**Query result**
 
 ![image](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_2/RQ_2.1.1.png)
 
@@ -35,7 +35,7 @@ SELECT * FROM AdventureWorksDW2022.dbo.DimProduct WHERE ProductAlternateKey = 'C
 SELECT TOP(10) * FROM AdventureWorksDW2022.dbo.FactInternetSales WHERE SalesAmount = 1000.4375
 ```
 
-**Query result**
+>**Query result**
 
 ![image](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_2/RQ_2.1.2.png)
 
