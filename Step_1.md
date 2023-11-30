@@ -1,4 +1,4 @@
-### Step 1, get to know the tables you're working on.
+## Step 1, get to know the tables you're working on.
 The most important thing is to get to know the data and tables you are working on. There are at least two simple ways :P
 
 ```
