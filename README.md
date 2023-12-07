@@ -26,6 +26,12 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **ORDER BY** - sorts the retrieved rows in a specified order,
 ### Aggregation functions
 - **AVG()** - returns the average value of a set of values,
+- **COUNT()** - returns the number of rows in a table or number of non-null values in a column,
+- **FIRST()** - returns the first value in a set of values,
+- **LAST()** - returns the last value in a set of values,
+- **MAX()** - returns the maximum value in a set of values,
+- **MIN()** - returns the minimum value in a set of values,
+- **SUM()** - returns the sum of a set of values.
 
 ## Contents of the Repository
 
