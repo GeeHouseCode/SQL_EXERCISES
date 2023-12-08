@@ -15,24 +15,6 @@ Despite there being many alternatives, SQL remains the world’s most widely use
 
 [Click this for more](https://blog.udemy.com/what-is-sql/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282061_._kw__._de_c_._dm__._pl__._ti_dsa-437380672551_._li_1011419_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpP7NRZ_RKfmmFJmMKNU3ob28mh0c7fp9ofH0pGszMnvZ_ybvNjMy0aAuBpEALw_wcB)
 
-## Basic SQL commands and aggregation functions
-To start your adventure with SQL, you need to know the basic query syntax. Below is a description of the basic commands and aggregation functions.
-### Basic SQL commands
-- **SELECT** - retrieves data from a database,
-- **FROM** - specifies which table to retrieve data from,
-- **WHERE** - specifies rows to retrieve based on certain conditions,
-- **GROUP BY** - groups rows that have the same values in the specified columns,
-- **HAVING** - filters groups based on a specified condition,
-- **ORDER BY** - sorts the retrieved rows in a specified order,
-### Aggregation functions
-- **AVG()** - returns the average value of a set of values,
-- **COUNT()** - returns the number of rows in a table or number of non-null values in a column,
-- **FIRST()** - returns the first value in a set of values,
-- **LAST()** - returns the last value in a set of values,
-- **MAX()** - returns the maximum value in a set of values,
-- **MIN()** - returns the minimum value in a set of values,
-- **SUM()** - returns the sum of a set of values.
-
 ## Contents of the Repository
 
 #### [Step 1 - get to know the tables you're working on](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md).
