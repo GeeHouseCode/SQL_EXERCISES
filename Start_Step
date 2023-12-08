@@ -1,13 +1,13 @@
 ## Basic SQL commands and aggregation functions
 To start your adventure with SQL, you need to know the basic query syntax. Below is a description of the basic commands and aggregation functions.
-### Basic SQL commands
+### Basic SQL commands:
 - **SELECT** - retrieves data from a database,
 - **FROM** - specifies which table to retrieve data from,
 - **WHERE** - specifies rows to retrieve based on certain conditions,
 - **GROUP BY** - groups rows that have the same values in the specified columns,
 - **HAVING** - filters groups based on a specified condition,
 - **ORDER BY** - sorts the retrieved rows in a specified order,
-### Aggregation functions
+### Aggregation functions:
 - **AVG()** - returns the average value of a set of values,
 - **COUNT()** - returns the number of rows in a table or number of non-null values in a column,
 - **FIRST()** - returns the first value in a set of values,
@@ -15,3 +15,14 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **MAX()** - returns the maximum value in a set of values,
 - **MIN()** - returns the minimum value in a set of values,
 - **SUM()** - returns the sum of a set of values.
+### String functions: 
+- **CONCAT()** - concatenates two or more strings together,
+- **INSERT()** - returns the position of a substring within a string,
+- **LENGTH()** - returns the length of a string,
+- **LOWER()** - converts a string to lowercase,
+- **LTRIM()** - removes leading spaces from string,
+- **REPLACE()** - replace all occurrences of a specified string with another string,
+- **RTRIM()** - removes trailing spaces from a string,
+- **SUBSTR()** - returns a portion of a string,
+- **TRIM()** - removes leading and trailing spaces from a string,
+- **UPPER()** - converts a string to uppercase
