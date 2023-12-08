@@ -16,7 +16,6 @@ Despite there being many alternatives, SQL remains the world’s most widely use
 [Click this for more](https://blog.udemy.com/what-is-sql/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282061_._kw__._de_c_._dm__._pl__._ti_dsa-437380672551_._li_1011419_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpP7NRZ_RKfmmFJmMKNU3ob28mh0c7fp9ofH0pGszMnvZ_ybvNjMy0aAuBpEALw_wcB)
 
 ## Contents of the Repository
-
-#### [Step 1 - get to know the tables you're working on](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md).
-#### [Step 2 - SQL operators](https://github.com/GeeHouseCode/SQL_EXERCISES/commit/f6f80aaf94cb6bc174efebf554c5aee64936ce02)
-
+#### [Step 1 - Basic SQL commands and aggregation functions](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Start_Step.md).
+#### [Step 1 - Get to know the tables you're working on](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_1.md).
+#### [Step 2 - SQL operators](https://github.com/GeeHouseCode/SQL_EXERCISES/blob/main/Step_2.md)
