@@ -26,3 +26,7 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **SUBSTR()** - returns a portion of a string,
 - **TRIM()** - removes leading and trailing spaces from a string,
 - **UPPER()** - converts a string to uppercase
+### Date function:
+- **CURDATE()** - returns the current date,
+- **CURTIME()** - returns the current time,
+- **DATE()** - extracts the date partion from a date/time value,
