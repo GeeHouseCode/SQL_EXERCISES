@@ -30,3 +30,11 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **CURDATE()** - returns the current date,
 - **CURTIME()** - returns the current time,
 - **DATE()** - extracts the date partion from a date/time value,
+- **DATEADD()** - adds a specified time interval to a date,
+- **DATEDIFF()** - returns the diffrence between two dates,
+- **DATEPART()** - extracts a specified part of a date/time value,
+- **DAY()** - returns the day of the month for a date value,
+- **MONTH()** - returns the month for a date value,
+- **NEW()** - returns the current date and time,
+- **YEAR()** - returns the year for a date value,
+### 
