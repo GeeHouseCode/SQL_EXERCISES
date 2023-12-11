@@ -44,3 +44,10 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **RIGHT JOIN** - returns all rows from the right table and any matching from the left table,
 - **FULL JOIN** - returns all rows from both tables, whether or not there are matching values,
 - **CROSS JOIN** - returns all rows from both tables, with each row from the first table being paired with each row from the second table,
+### SET OPERATIONS:
+- **UNION** - combines the results of two or more SELECT statments, eliminating duplicates,
+- **UNION ALL** - combines the results of two or more SELECT statements, including duplicates,
+- **INTERSECT** - returns rows that are present in the results of two or more SELECT statements,
+- **EXCEPT** - returns rows that are present in the first SELECT statement but not in the results of any subsequent SELECT statements,
+### DATA MANIPULATION COMMANDS:
+- 
