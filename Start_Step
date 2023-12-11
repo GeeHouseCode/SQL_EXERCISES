@@ -37,4 +37,10 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **MONTH()** - returns the month for a date value,
 - **NEW()** - returns the current date and time,
 - **YEAR()** - returns the year for a date value,
-### 
+### JOINS:
+- **INNER JOIN** - returns rows that have matching values in both tables,
+- **OUTER JOIN** - returns rows that have matching values in either og the two tables,
+- **LEFT JOIN** - returns all rows from the left table and any matching rows from the left table,
+- **RIGHT JOIN** - returns all rows from the right table and any matching from the left table,
+- **FULL JOIN** - returns all rows from both tables, whether or not there are matching values,
+- **CROSS JOIN** - returns all rows from both tables, with each row from the first table being paired with each row from the second table,
