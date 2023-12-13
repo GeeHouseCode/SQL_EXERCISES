@@ -61,3 +61,4 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **TURNCATE TABLE** - removes all rows from a table,
 - **CREATE INDEX** -creates an index on a table to improve search performance,
 - **DROP INDEX** - deletes an index from a table.
+...
