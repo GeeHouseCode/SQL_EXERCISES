@@ -50,4 +50,14 @@ To start your adventure with SQL, you need to know the basic query syntax. Below
 - **INTERSECT** - returns rows that are present in the results of two or more SELECT statements,
 - **EXCEPT** - returns rows that are present in the first SELECT statement but not in the results of any subsequent SELECT statements,
 ### DATA MANIPULATION COMMANDS:
-- 
+- **INSERT INTO** - adds a new row to a table,
+- **UPDATE** - modifies exidting data in a table,
+- **DELETE** - removes existing rows from a table,
+- **TRUNCATE TABLE** - removes all rows from a table,
+### DATA DEFINITION COMMANDS:
+- **CREATE TABLE** - creates a new table,
+- **ALTER TABLE** - modifies the structure of an existing table,
+- **DROP TABLE** - deletes a table,
+- **TURNCATE TABLE** - removes all rows from a table,
+- **CREATE INDEX** -creates an index on a table to improve search performance,
+- **DROP INDEX** - deletes an index from a table.
